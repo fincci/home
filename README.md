@@ -1,6 +1,8 @@
 ### Olá, seja bem vindo! 👋
 <div style="transform: rotateX(90deg)">
-  <img alt="cat" width="100px" src="https://64.media.tumblr.com/5abf0f197bf1e7d6226f8276022a47e8/tumblr_n4ezcw0wQO1rmvkpdo3_r1_500.gifv"></div>
+  <img alt="cat" height="70px" src="https://64.media.tumblr.com/5abf0f197bf1e7d6226f8276022a47e8/tumblr_n4ezcw0wQO1rmvkpdo3_r1_500.gifv">
+  <img align="right" alt="totoro" height="70px" src="https://i.dlpng.com/static/png/5411998-top-totoro-transparent-stickers-for-android-ios-find-the-best-totoro-transparent-500_364_preview.png">
+</div>
 <div>
   <a href="https://github.com/fincci">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fincci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
