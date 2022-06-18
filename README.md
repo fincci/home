@@ -1,5 +1,7 @@
 ### Olá, seja bem vindo! 👋
 <div align="center">
+  <img alt="cat" width="100px" src="https://64.media.tumblr.com/5abf0f197bf1e7d6226f8276022a47e8/tumblr_n4ezcw0wQO1rmvkpdo3_r1_500.gifv"></div>
+<div align="center">
   <a href="https://github.com/fincci">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fincci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fincci&layout=compact&langs_count=6&theme=midnight-purple"></a>
@@ -9,7 +11,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="CSS" height="150" width="150" src="https://media.discordapp.net/attachments/476322606019248141/987466439093018624/avatar.gif">
+  <img align="right" alt="avatar-filipe" height="150" width="150" src="https://media.discordapp.net/attachments/476322606019248141/987466439093018624/avatar.gif">
+</div>
+<div>
+  
 </div>
 <br>
 <div> 
