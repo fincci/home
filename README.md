@@ -1,5 +1,5 @@
 ### Olá, seja bem vindo! 👋
-<div style="transform: rotateX(90deg)">
+<div>
   <img alt="cat" height="70px" src="https://64.media.tumblr.com/5abf0f197bf1e7d6226f8276022a47e8/tumblr_n4ezcw0wQO1rmvkpdo3_r1_500.gifv">
   <img align="right" alt="totoro" height="70px" src="https://i.dlpng.com/static/png/5411998-top-totoro-transparent-stickers-for-android-ios-find-the-best-totoro-transparent-500_364_preview.png">
 </div>
@@ -14,9 +14,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="avatar-filipe" height="150" width="150" src="https://media.discordapp.net/attachments/476322606019248141/987466439093018624/avatar.gif">
-</div>
-<div>
-  
 </div>
 <br>
 <div> 
