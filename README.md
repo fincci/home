@@ -5,8 +5,8 @@
 </div>
 <div>
   <a href="https://github.com/fincci">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fincci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fincci&layout=compact&langs_count=6&theme=midnight-purple"></a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fincci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fincci&layout=compact&langs_count=6&theme=midnight-purple"></a>
 </div>
 <br>
  <div align="left">
