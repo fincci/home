@@ -11,11 +11,11 @@
 <br>
 <div>
   <p>Comecei como desenvolvedor frontend, mas hoje trabalho com backend, desenvolvendo em Planning Analytics (TM1) da IBM</p>
-  <img align="right" src="src/PngItem_1831135.png" height="50px" />
 </div>
 <div>
   <img src="https://skillicons.dev/icons?i=react,js,redux,jest,styledcomponents,html,css,git,github" alt="skills"/>
   <img align="right" alt="avatar-filipe" height="150px" width="150px" src="https://media.discordapp.net/attachments/476322606019248141/988471463088644126/avatartransparent.gif">
+  <img align="right" src="src/PngItem_1831135.png" height="50px" />
 </div>
 <br>
 <div align="left">
