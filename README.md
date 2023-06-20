@@ -2,7 +2,7 @@
 <br>
 <div>
   <img alt="cat" height="70px" src="https://64.media.tumblr.com/5abf0f197bf1e7d6226f8276022a47e8/tumblr_n4ezcw0wQO1rmvkpdo3_r1_500.gifv">
-    <img align="right" alt="totoro" height="70px" src="https://media.discordapp.net/attachments/476322606019248141/988593993384329236/ezgif-4-0b3d0680e7.gif">
+    <img align="right" alt="totoro" height="70px" width="50px" src="https://media.discordapp.net/attachments/476322606019248141/988593993384329236/ezgif-4-0b3d0680e7.gif">
 </div>
 <div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fincci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&card_width=489">
