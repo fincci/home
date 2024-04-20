@@ -19,7 +19,7 @@
 <br>
 
 <div>
-    <img src="https://skillicons.dev/icons?i=typescript,react,styledcomponents,js,html,css,redux,jest,git,github" alt="skills"/>
+    <img src="https://skillicons.dev/icons?i=typescript,js,react,styledcomponents,html,css,redux,jest,git,github" alt="skills"/>
     <img align="right" alt="avatar-filipe" height="150px" width="150px" src="https://media.discordapp.net/attachments/476322606019248141/988471463088644126/avatartransparent.gif?ex=66248d89&is=66233c09&hm=f7a11bf1c6402089d2795ac04ead679104a14ae3c8e9c4419a39e626b4f63a9f&=">
     <img align="right" src="src/PngItem_1831135.png" height="50px" />
 </div>
