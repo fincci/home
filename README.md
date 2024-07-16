@@ -25,7 +25,7 @@
     <img alt="postman" src="https://skillicons.dev/icons?i=postman" />
     <img alt="git" src="https://skillicons.dev/icons?i=git" />
     <img alt="github" src="https://skillicons.dev/icons?i=github" />
-    <img src="src/PngItem_1831135.png" height="50px" />
+    <img src="src/tm1Icon.png" height="50px" />
     <img alt="avatar-filipe" align="right"  height="150px" width="150px" src="src/avatartransparent.gif">
 </div>
 
