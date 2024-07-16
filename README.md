@@ -4,12 +4,12 @@
 
 #### Aqui no meu perfil, você encontrará majoritariamente alguns projetos que fiz quando estava aprendendo frontend, mas em um futuro próximo, pretendo trazer algumas integrações com o TM1.
 
-<div style="margin: 20px 0px">
+<div style="margin-top: 20px">
     <img  alt="totoro" height="70px" width="50px" src="src/ezgif-4-0b3d0680e7.gif">
     <img alt="cat" height="70px" src="src/ezgif-6-d560a58602.gif">
 </div>
 
-<div style="margin: 20px 0px" >
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=fincci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&card_width=489">
 </div>
 
